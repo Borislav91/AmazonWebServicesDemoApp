@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AmazonWebServicesDemoApp</string>
+    <string name="amazon_cognito">Cognito</string>
+    <string name="mobile_analytics">Mobile Analytics</string>
+    <string name="dynamo_db">Dynamo DB</string>
+    <string name="amazon_kinesis">Kinesis</string>
+    <string name="amazon_lambda">Lambda</string>
+    <string name="aws">Amazon Web Services</string>
 </resources>
